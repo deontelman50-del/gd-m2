@@ -1,28 +1,30 @@
 # gd-m2
 Titel (werktitel)
-Schrijf hier de naam van je spel.
+flipperkast
 
 Genre
-Physics-based arcade puzzelgame.
+Physics-based arcade puzzelg
 
 Beschrijving
-Schrijf in twee of drie zinnen wat de speler doet, wat er geraakt kan worden en hoe er punten worden gescoord.
+er word een bal geschoten in de map en die moet je op de map houden
 
 Gameplaykern
-Bal: wat is de bal in jouw thema.
-Targets of bumps: wat raakt de bal.
-Score: wanneer en hoeveel krijg je punten.
-Doel: wat is een geslaagde beurt of level.
+Bal: een bal.
+Targets of bumps: jij als spelen en opjecten waar je punten voor kan krijgen.
+Score: als je objecten aan raakt dan krijg je punten.
+Doel: zo veel mogelijk punten halen.
 Stijl en sfeer
-Korte omschrijving van thema, kleuren en geluid.
+gewoon een flipperkast.
 
 Structuur van het level
-Bovenaan: schietplek.
-Midden: veld met targets.
-Onderaan: opvang of doelgebied voor het einde van de beurt.
+Bovenaan: punten.
+Midden: punten obstakels.
+Onderaan: jij.
 Levelschets
 Maak een eenvoudige schets van je startlevel met schietplek, targets en onderzijde.
 Voeg de schets toe aan de README.
+<img width="363" height="431" alt="image" src="https://github.com/user-attachments/assets/91975706-3af7-4682-ae28-3769a7b2ec93" />
+
 Reflectie – Week 1
 Beantwoord kort in je README:
 
