@@ -25,5 +25,5 @@ Maak een eenvoudige schets van je startlevel met schietplek, targets en onderzij
 Voeg de schets toe aan de README.
 <img width="363" height="431" alt="image" src="https://github.com/user-attachments/assets/91975706-3af7-4682-ae28-3769a7b2ec93" />
 
-
+array opdracht
 ![unity array](https://github.com/user-attachments/assets/d0b876cb-b5f0-4b81-b893-94366b05c1aa)
