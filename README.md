@@ -28,3 +28,32 @@ Voeg de schets toe aan de README.
 1.2array opdracht
 ![unity array](https://github.com/user-attachments/assets/d0b876cb-b5f0-4b81-b893-94366b05c1aa)
 wat ik heb gedaan is ik heb de code bekenen er in gezet de contorls veranderd en daarna uitgevoerd
+
+[array.cs](https://github.com/user-attachments/files/23956487/array.cs)
+using UnityEngine;
+
+
+public class RandomItem : MonoBehaviour
+{
+    [SerializeField] private string[] bosses = new string[10];
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Backspace)) PrintRandomItem();
+        if (Input.GetKeyDown(KeyCode.Escape)) PrintAllItems();
+    }
+    private void PrintRandomItem()
+    {
+        int RandomItem = Random.Range(0, bosses.Length);
+        Debug.Log(bosses[RandomItem]);
+
+    }
+    private void PrintAllItems()
+    {
+        for (int i = 0; i < bosses.Length; i++)
+        {
+            Debug.Log($"[{i}] {bosses[i]}");
+        }
+
+    }
+}
