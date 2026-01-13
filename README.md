@@ -38,4 +38,6 @@ wat ik heb gedaan is zorgen dat je kan schieten en richten (kim zij dat ik de li
 ik heb ook dingen geplaats waar je op moet schieten en als je ze 3 keer raakt dan gaan ze weg.
 
 [shoot.cs](https://github.com/user-attachments/files/24587422/shoot.cs)
+[peggle.cs](https://github.com/user-attachments/files/24587445/peggle.cs)
+[Aim.cs](https://github.com/user-attachments/files/24587447/Aim.cs)
 
