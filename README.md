@@ -30,3 +30,12 @@ Voeg de schets toe aan de README.
 wat ik heb gedaan is ik heb de code bekenen er in gezet de contorls veranderd en daarna uitgevoerd
 
 [array.cs](https://github.com/user-attachments/files/23956487/array.cs)
+
+2.1 EN 2.2
+ik doe ze in een omdat ik was vergeten om mijn git bij te houden.
+![gvd lowk dont care](https://github.com/user-attachments/assets/e82073dd-128e-40a2-b66f-ebcb9c093893)
+wat ik heb gedaan is zorgen dat je kan schieten en richten (kim zij dat ik de line rendering niet hoef te doen omdat hij erg raar deed bij mij)
+ik heb ook dingen geplaats waar je op moet schieten en als je ze 3 keer raakt dan gaan ze weg.
+
+
+
