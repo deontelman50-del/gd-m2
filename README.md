@@ -49,3 +49,8 @@ ik heb een score ui toegevoegd en ik heb mijn line renderer gefixed samen met Co
 ![probleem gdv score ](https://github.com/user-attachments/assets/8c5139b3-ce64-4cb8-9a0e-484310c029ff)
 
 de score laten zien in game werkt nog niet maar was wel de bedoeling maar ik ben er met erwin bezig om het te fixen
+
+![alles anders](https://github.com/user-attachments/assets/042c4816-b266-4142-9910-0a9ac2e0b635)
+
+de score doet het!
+
