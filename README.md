@@ -1,4 +1,4 @@
-# gd-m2
+[CountBalls.cs](https://github.com/user-attachments/files/24822090/CountBalls.cs)# gd-m2
 Titel (werktitel)
 flipperkast
 
@@ -40,17 +40,21 @@ ik heb ook dingen geplaats waar je op moet schieten en als je ze 3 keer raakt da
 [shoot.cs](https://github.com/user-attachments/files/24587422/shoot.cs)
 [peggle.cs](https://github.com/user-attachments/files/24587445/peggle.cs)
 [Aim.cs](https://github.com/user-attachments/files/24587447/Aim.cs)
+[ScoreManager.cs](https://github.com/user-attachments/files/24822073/ScoreManager.cs)
+[BumperHit.cs](https://github.com/user-attachments/files/24822104/BumperHit.cs)
 
 4.1
 <img width="1054" height="483" alt="image" src="https://github.com/user-attachments/assets/63602bab-85a2-48a4-be77-5308702e72cb" />
 ik heb een score ui toegevoegd en ik heb mijn line renderer gefixed samen met Codie.
 
+[UIScoreBoard.cs](https://github.com/user-attachments/files/24822097/UIScoreBoard.cs)
+
 4.2
 ![probleem gdv score ](https://github.com/user-attachments/assets/8c5139b3-ce64-4cb8-9a0e-484310c029ff)
-
+[Uploading CountBalls.cs…]()
 de score laten zien in game werkt nog niet maar was wel de bedoeling maar ik ben er met erwin bezig om het te fixen
 
+5.2
 ![alles anders](https://github.com/user-attachments/assets/042c4816-b266-4142-9910-0a9ac2e0b635)
 
-de score doet het!
-
+de score doet het! en ik heb particles toegevoegd.
