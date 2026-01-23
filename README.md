@@ -44,3 +44,7 @@ ik heb ook dingen geplaats waar je op moet schieten en als je ze 3 keer raakt da
 4.1
 <img width="1054" height="483" alt="image" src="https://github.com/user-attachments/assets/63602bab-85a2-48a4-be77-5308702e72cb" />
 ik heb een score ui toegevoegd en ik heb mijn line renderer gefixed samen met Codie.
+
+4.2
+![probleem gdv score ](https://github.com/user-attachments/assets/8c5139b3-ce64-4cb8-9a0e-484310c029ff)
+
